@@ -5,7 +5,9 @@ Explore my Data Science Portfolio showcasing diverse projects and insights. From
 # Contents
 ## Data Analysis, Statistics, Machine Learning, Big Data, and More
 
-
+  - SpaceY project
+      
+#
   - Automatidata project (Coming soon...)
 #
   - TikTok project (Coming soon...)
